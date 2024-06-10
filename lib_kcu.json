@@ -3,5 +3,8 @@
   "video_id": "BoxeaBqZR40",
   "link_id": "https://www.youtube.com/watch?v=BoxeaBqZR40",
   "status" : "true",
-  "latest_version" : "1.0.0"
+  "latest_version" : "1.0.1",
+  "plugin_name": "kc_u",
+  "download_url": "https://www.dropbox.com/scl/fo/aymam8letmg77cmaudre5/AAVMx7sadSx_zgywEV1FaSk?rlkey=sxgeo110crhk0ypqzkjs5s6c2&st=obx4g6cw&dl=1",
+  "messagebox": ""
 }
